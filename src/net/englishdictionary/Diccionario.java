@@ -82,4 +82,5 @@ public class Diccionario {
     private String sanitizarPalabra(String palabra) {
         return palabra.trim().toLowerCase();
     }
+
 }
